@@ -1,7 +1,7 @@
 # osint-portfolio
 My OSINT investigation cases, reports and data summaries (redacted)
 <p align="center">
-  <img src="assets/preview.png" alt="OSINT Portfolio Banner" width="720"/>
+  <img src="assets/preview.jpg" alt="OSINT Portfolio Banner" width="720"/>
 </p>
 
 <h1 align="center">OSINT Portfolio — Maxi_Os1nt</h1>
