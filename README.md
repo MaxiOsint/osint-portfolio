@@ -5,7 +5,7 @@ OSINT Portfolio — Maxi_Os1nt
 This repo contains fragments from real investigations I've worked on — redacted, but authentic. Focus: fraud, identity tracing, account attribution, and real-world events that required solid verification, not theory.
 
 Cross-border fraud (Crypto, False Docs)  
-Tracked individuals and entities behind a fake supply chain scheme. Started with payment receipts, ended with crypto wallets, shell domains, and full identity attribution. Case involved over $50K loss on the victim's side.  
+Tracked individuals and entities behind a fake supply chain scheme. Started with payment receipts, ended with crypto wallets, shell domains, and full identity attribution. Case involved over $120K loss on the victim's side.  
 Key angles: language patterns, export records, breached email reuse, IP trails.
 
 Telegram-based impersonation scam  
